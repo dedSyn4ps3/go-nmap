@@ -1,6 +1,6 @@
-module github.com/Ullaakut/nmap/v2
+module github.com/dedsyn4ps3/nmap
 
-go 1.15
+go 1.17
 
 require (
 	github.com/pkg/errors v0.9.1
